@@ -16,7 +16,7 @@
         <h2>View Note</h2>
         <div><b>Title: </b>${title}</div>
         <br>
-        <div><b>Content: </b></div>
+        <div><b>Contents: </b></div>
         ${content}
         <br>
         <br>

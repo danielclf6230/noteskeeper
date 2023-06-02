@@ -14,7 +14,7 @@
     <body>
         <form method="post" action="note">
             <h1>Simple Note Keeper</h1>
-            <h2>View Note</h2>
+            <h2>Edit Note</h2>
             <label>Title: </label>
             <input type="test" name="newT">
             <br>
